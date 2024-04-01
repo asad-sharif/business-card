@@ -94,4 +94,5 @@ article {
 
 .footer img {
   width: 40px;
+  filter: invert(100)
 }
